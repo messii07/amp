@@ -1,7 +1,6 @@
 b) Life Cycle of fragments 
 Note: The Following Steps are required: Right Click on Java -> New -> Fragment -> 
 Fragment (Blank) 
-Give Fragment Name “LifeCycleOfFragment” 
 
 LifeCycleOfFragment.java
 
